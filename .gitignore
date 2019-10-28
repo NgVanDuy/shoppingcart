@@ -1,0 +1,10 @@
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+/.idea/LaravelShoppingcart.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
