@@ -5,14 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Rob Gloudemans",
-            "email": "info@robgloudemans.nl",
-            "homepage": "http://robgloudemans.nl/"
-        },
-        {
-            "name": "Patrick Henninger",
-            "email": "privat@skyraptor.eu",
-            "homepage": "https://skyraptor.eu/"
+            "name": "Duy Nguyen",
+            "email": "duy.nv.96@gmail.com"
         }
     ],
     "require": {
