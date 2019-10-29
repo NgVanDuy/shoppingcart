@@ -1,8 +1,8 @@
 <?php
 
-namespace Gloudemans\Tests\Shoppingcart\Fixtures;
+namespace NgDuy\Tests\Shoppingcart\Fixtures;
 
-use Gloudemans\Shoppingcart\Contracts\Buyable;
+use NgDuy\Shoppingcart\Contracts\Buyable;
 
 class BuyableProduct implements Buyable
 {

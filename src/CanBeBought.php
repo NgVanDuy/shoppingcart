@@ -1,6 +1,6 @@
 <?php
 
-namespace Gloudemans\Shoppingcart;
+namespace NgDuy\Shoppingcart;
 
 trait CanBeBought
 {

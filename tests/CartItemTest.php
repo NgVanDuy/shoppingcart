@@ -1,10 +1,10 @@
 <?php
 
-namespace Gloudemans\Tests\Shoppingcart;
+namespace NgDuy\Tests\Shoppingcart;
 
 use Orchestra\Testbench\TestCase;
-use Gloudemans\Shoppingcart\CartItem;
-use Gloudemans\Shoppingcart\ShoppingcartServiceProvider;
+use NgDuy\Shoppingcart\CartItem;
+use NgDuy\Shoppingcart\ShoppingcartServiceProvider;
 
 class CartItemTest extends TestCase
 {
