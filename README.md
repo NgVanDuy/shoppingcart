@@ -5,7 +5,6 @@
 [![Total Downloads](https://poser.pugx.org/ngduy/shoppingcart/downloads)](https://packagist.org/packages/ngduy/shoppingcart)
 [![Latest Unstable Version](https://poser.pugx.org/ngduy/shoppingcart/v/unstable)](https://packagist.org/packages/ngduy/shoppingcart)
 [![License](https://poser.pugx.org/ngduy/shoppingcart/license)](https://packagist.org/packages/ngduy/shoppingcart)
-A simple shoppingcart implementation for Laravel.
 
 ## Installation
 
